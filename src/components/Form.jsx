@@ -3,7 +3,6 @@
 import { useEffect, useState } from "react";
 import DatePicker from "react-datepicker";
 import "react-datepicker/dist/react-datepicker.css";
-import PropTypes from 'prop-types';
 import styles from "./Form.module.css";
 import Button from "./Button";
 import BackButton from "./BackButton";
